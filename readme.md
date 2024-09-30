@@ -2,4 +2,4 @@
 
 ## Introduction
 
-A demo of how am working with gitflow
+A demo of how am working with github gitflows
